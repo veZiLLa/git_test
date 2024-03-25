@@ -1,0 +1,2 @@
+Hello, World. Here is my first project with git.
+Hope this will make me some money so I can travel with my girl.
